@@ -19,5 +19,8 @@
   "homepage": "https://github.com/robified/cc_js_watchit#readme",
   "bin": {
     "watchit": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.3.1"
   }
 }
