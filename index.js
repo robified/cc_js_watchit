@@ -37,5 +37,5 @@ program
             .on('unlink', start);
     });
 
+// after you define the program, you have to do this to execute it
 program.parse(process.argv);
-
